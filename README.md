@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello Folks 👋, I'm Saket Gudimella</h1>
-<h3 align="center">I'm a freshman at SRMIST, Chennai, India. Moreover, I'm also keen in intergrating technology to solve real-time problems across different industries.</h3>
+<h3 align="center">I'm a freshman at SRMIST, Chennai, India. Moreover, I'm also keen in integrating technology to solve business problems across different industries.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saketgudimella&label=Profile%20views&color=0e75b6&style=flat" alt="saketgudimella" /> </p>
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/saketgudimella" target="blank"><img src="https://img.shields.io/twitter/follow/saketgudimella?logo=twitter&style=for-the-badge" alt="saketgudimella" /></a> </p>
 
-- 🌱 I’m currently learning **Natural Lanugange Processing and Computer Vision.**
+- 🌱 I’m currently learning **Natural Language Processing and Computer Vision.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaketGudimella](https://github.com/SaketGudimella)
 
