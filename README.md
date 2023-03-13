@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello Folks 👋, I'm Saket Gudimella</h1>
-<h3 align="center">I'm a freshman at SRMIST, Chennai, India. Moreover, I'm also keen in integrating technology to solve business problems across different industries.</h3>
+<h3 align="center"> I am a freshman studying at SRMIST in Chennai, India, and I am passionate about using technology to solve business problems across various industries.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saketgudimella&label=Profile%20views&color=0e75b6&style=flat" alt="saketgudimella" /> </p>
 
