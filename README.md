@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **Natural Language Processing and Computer Vision.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SaketGudimella](https://github.com/SaketGudimella)
+- 👨‍💻 All of my projects are available at [https://github.com/SaketGudimella](https://github.com/SaketGudimella).
 
-- 🧐 Interested in **Robots, Computers and Rockets**
+- 🧐 Interested in **Robots, Computers and Rockets**.
 
-- 📫 You can find me on Twitter, Gmail or on LinkedIn. **@SaketGudimella, radhasaket38@gmail.com, Saket Gudimella**
+- 📫 You can find me on Twitter, Gmail or on LinkedIn. **@SaketGudimella, radhasaket38@gmail.com, Saket Gudimella**.
 
 - ⚡ Fun fact **The majority of your brain is fat.**
 
