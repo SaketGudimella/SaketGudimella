@@ -38,7 +38,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saketgudimella&show_icons=true&locale=en&layout=compact" alt="saketgudimella" />
 </p>
 
-[![SaketGudimella's GitHub | Languages Over Time](https://stats.quine.sh/SaketGudimella/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SaketGudimella)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saketgudimella&show_icons=true&locale=en" alt="saketgudimella" />
