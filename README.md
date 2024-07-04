@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+ 
 <h1 align="center">Hello Folks 👋, I'm Saket Gudimella</h1>
 <h3 align="center"> Passionate about using technology to solve business problems.</h3>
 
