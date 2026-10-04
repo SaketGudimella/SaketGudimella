@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 About Me
-🎓 B.Tech CSE (AI & ML) @ SRM Institute of Science and Technology (GPA: 9.16)  
+🎓 B.Tech CSE (AI & ML) @ SRM Institute of Science and Technology (GPA: 9.24)  
 💡 Passionate about building **scalable, secure, and intelligent systems**  
 🚀 Experienced across **AI/ML, backend engineering, and cloud deployment**  
 🌍 Interested in solving **real-world problems using data and automation**
